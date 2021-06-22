@@ -60,7 +60,7 @@ Additional DOM element exclusion is in active development.
 
   Click **<i class="fa fa-plus-circle"></i> Add** to add more pages.
 
-1. Click **Continue** to choose updates to exclude. If no eligible updates are available, or once you've added all the things to exclude, click **Save** to start Autopilot.
+1. Click **Continue** to choose which updates to exclude. If there are no eligible updates available, or once you've added all the items to exclude, click **Save** to start Autopilot.
 
 1. Wait while Autopilot performs its tests and updates. This will take a while.
 
@@ -76,8 +76,9 @@ Configure email alerts for Autopilot from your Personal Workspace settings:
 
 ![Personal Workspace Settings include options for Autopilot email alerts](../../../images/autopilot/new-dashboard-personal-workspace-personal-settings-autopilot-alerts.png)
 
-1. Click the <i className="fa fa-user-circle"></i> Gravatar in the upper right corner and click <i className="fa fa-user-cog"></i> **User Settings**
-1. Click **Preferences** and choose your options in the **Autopilot Email Alerts** section:
+1. Click the <i className="fa fa-user-circle"></i> Gravatar in the upper right corner
+2. Click <i className="fa fa-user-cog"></i> **User Settings** to configure your profile.
+3. Click **Preferences** and choose your options in the **Autopilot Email Alerts** section:
 
    - **Weekly Activity Digest**: A weekly summary of Autopilot activity across all sites within this workspace that have Autopilot enabled.
    - **Failed Visual Regression Tests**: Real-time email alerts for failed VRT tests for a given site.
